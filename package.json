@@ -1,0 +1,17 @@
+{
+  "name": "nrz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "live": "^0.1.25-beta.0",
+    "server": "^1.0.38",
+    "swiper": "^10.3.0"
+  }
+}
